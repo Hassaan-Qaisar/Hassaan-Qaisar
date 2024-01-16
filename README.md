@@ -15,4 +15,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassaan-Qaisar&show_icons=true&locale=en" alt="hassaan-qaisar" /></p>
 
-<p><img src="https://streak-stats.demolab.com?user=Hassaan-Qaisar&theme=dark&hide_border=true" alt="GitHub Streak" /></p>
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=Hassaan-Qaisar&theme=dark&hide_border=true" alt="hassaan-qaisar" /></p>
+
