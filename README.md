@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Hassaan, weaving digital wonders.</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
+<h3 align="center">A passionate software engineer from Pakistan</h3>
 
 - 📫 How to reach me **hassaanqaisar2@gmail.com**
 
