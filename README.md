@@ -15,7 +15,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassaan-Qaisar&show_icons=true&locale=en" alt="hassaan-qaisar" /></p>
 
-<a href=""><img src="https://streak-stats.demolab.com?user=hassaan-qaisar" alt="GitHub Streak" /></a>
-
 
 
