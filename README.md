@@ -9,7 +9,7 @@
 
 ## 📫 Connect with me
 
-Looking to convert a Figma design into a web reality? Feel free to contact me. I'm here to make your vision come alive, and I promise to bring a friendly and charismatic touch to our collaboration. Web projects are also warmly welcomed.
+I'm here to make your vision come alive, and I promise to bring a friendly and charismatic touch to our collaboration. Web projects are also warmly welcomed.
 
 Let's turn your ideas into reality! 
 
@@ -22,16 +22,6 @@ Let's turn your ideas into reality!
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 📊 Github Stats
-
-<div align="center">
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Hassaan-Qaisar&show_icons=true&locale=en" alt="hassaan-qaisar" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassaan-Qaisar&show_icons=true&locale=en&layout=compact" alt="hassaan-qaisar" /></p>
-
-</div>
-
 <br>
 
 ## 🛠️ Skills
@@ -43,7 +33,17 @@ Let's turn your ideas into reality!
 | **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp; ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)&nbsp;  ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Version Control & CI/CD** | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp; ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
 | **Deployment & Hosting** | ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel)&nbsp; ![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;  ![GithubPages](https://img.shields.io/badge/github%20pages-222222?style=for-the-badge&logo=github&logoColor=white) |
-| **Development Tools** | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp; ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp; ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp; ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)&nbsp; ![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black) |
+| **Development Tools** | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp; ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp; ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp; ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)&nbsp; ![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black) | | |
+
+## 📊 Github Stats
+
+<div align="center">
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Hassaan-Qaisar&show_icons=true&locale=en" alt="hassaan-qaisar" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassaan-Qaisar&show_icons=true&locale=en&layout=compact" alt="hassaan-qaisar" /></p>
+
+</div>
 
 
 
