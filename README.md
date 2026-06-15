@@ -43,8 +43,4 @@ Let's turn your ideas into reality!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassaan-Qaisar&show_icons=true&locale=en" alt="hassaan-qaisar" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassaan-Qaisar&show_icons=true&locale=en&layout=compact" alt="hassaan-qaisar" /></p>
-
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=hassaan-qaisar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="hassaan-qaisar" /></p>
-
 </div>
