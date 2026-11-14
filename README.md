@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Hassaan.</h1>
-<h3 align="center">Full-Stack Software Engineer · Islamabad, Pakistan</h3>
+<h3 align="center">Full-Stack Software Engineer</h3>
 
 <p align="center">
 I build full-stack web apps, AI-powered products and automation workflows. I like owning a product end to end, from the first wireframe to production and the improvements after launch.
